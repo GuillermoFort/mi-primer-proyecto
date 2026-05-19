@@ -1,0 +1,47 @@
+body {
+  background-color: #D79184;
+  font-family: "Didact Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+  background-color: #576853;
+  border-radius: 8px;
+  padding: 8px 0;
+}
+
+.first-list li {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  width: 40%;
+  margin: 25px auto;
+}
+
+p {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+  background-color: hsla(255, 58%, 47%, 0.5);
+  color: white;
+  border-radius: 8px;
+  width:500px;
+  height: 80px;
+  margin: 10px auto;
+}
+
+footer:hover {
+  background-color: black;
+  cursor: pointer;
+  color: white;
+}
