@@ -1,0 +1,45 @@
+ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.orange {
+  background-color: orange;
+}
+ 
+.title-card {
+  font-size: 1.1rem;
+  color: whitesmoke;;
+  text-align: center;
+}
+
+
